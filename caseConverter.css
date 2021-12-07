@@ -1,0 +1,13 @@
+button{
+    color: white;
+    background-color: darkblue;
+}
+#text-area{
+    width: 30%;
+    height: 250px;
+    background-color: aquamarine;
+}
+.title{
+    color: darkred;
+    font-size: 40px;
+}
